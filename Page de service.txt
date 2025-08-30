@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WOTTER - Services</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <nav>
+        <div class="logo">WOTTER</div>
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="about.html">À propos</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+<section class="services-page">
+    <h1>Nos Services</h1>
+    <p>Découvrez ce que nous pouvons faire pour vous :</p>
+    <ul>
+        <li>Développement Web personnalisé</li>
+        <li>Création de contenu vidéo et graphique</li>
+        <li>Développement d'applications mobiles et web</li>
+        <li>Maintenance et support technique</li>
+    </ul>
+</section>
+</main>
+
+<footer>
+    <p>Contact: 065665784 | Email: wottercontacte@gmail.com</p>
+    <p>&copy; 2025 WOTTER. Tous droits réservés.</p>
+</footer>
+</body>
+</html>

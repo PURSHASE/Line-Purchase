@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WOTTER - À propos</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <nav>
+        <div class="logo">WOTTER</div>
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="about.html">À propos</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+<section class="about-page">
+    <h1>À propos de WOTTER</h1>
+    <p>WOTTER est une entreprise dédiée à l'innovation numérique et à la création de contenu de qualité. Notre mission est d'aider nos clients à se démarquer grâce à des solutions digitales sur mesure.</p>
+    <p>Nous croyons en la créativité, l'excellence et le professionnalisme dans tout ce que nous faisons.</p>
+</section>
+</main>
+
+<footer>
+    <p>Contact: 065665784 | Email: wottercontacte@gmail.com</p>
+    <p>&copy; 2025 WOTTER. Tous droits réservés.</p>
+</footer>
+</body>
+</html>

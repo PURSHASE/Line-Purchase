@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WOTTER - Contact</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <nav>
+        <div class="logo">WOTTER</div>
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="about.html">À propos</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+<section class="contact-page">
+    <h1>Contactez-nous</h1>
+    <p>Vous pouvez nous joindre via :</p>
+    <ul>
+        <li>Téléphone: 065665784</li>
+        <li>Email: wottercontacte@gmail.com</li>
+    </ul>
+
+    <form>
+        <input type="text" placeholder="Votre nom" required>
+        <input type="email" placeholder="Votre email" required>
+        <textarea placeholder="Votre message" required></textarea>
+        <button type="submit">Envoyer</button>
+    </form>
+</section>
+</main>
+
+<footer>
+    <p>Contact: 065665784 | Email: wottercontacte@gmail.com</p>
+    <p>&copy; 2025 WOTTER. Tous droits réservés.</p>
+</footer>
+</body>
+</html>
